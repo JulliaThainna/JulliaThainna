@@ -14,7 +14,7 @@
   </div>    
 
   <div align="left">
-    <img width="150px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
+    <img width="140px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
     <h4>I'm from Brazil 🇧🇷 and a 3rd year Computer Science student at <a href="https://portal.uel.br/home/">State University of Londrina - UEL</a>.<br>
       I'm currently working with Java frontend and C stuff (and trying to thinking about my final paper theme :weary:).
     </h4>
