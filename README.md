@@ -9,35 +9,48 @@
   <div align="center">
     <h2 align="center">Hi guys!!! Welcome to my little world ^~^</h2>
     <img width="70px" src="https://user-images.githubusercontent.com/52893062/136714200-097f89c6-35e5-4c12-bb6e-c89fef0d568f.gif">
-    <img width="430px" src="https://user-images.githubusercontent.com/52893062/136712774-0619b75a-67cf-4253-b7d2-354c4a878867.gif">
+    <img width="450px" src="https://user-images.githubusercontent.com/52893062/136712774-0619b75a-67cf-4253-b7d2-354c4a878867.gif">
     <img width="70px" src="https://user-images.githubusercontent.com/52893062/136714200-097f89c6-35e5-4c12-bb6e-c89fef0d568f.gif">
   </div>    
 
   <div align="left">
     <img width="140px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
-    <h4>I'm from Brazil 🇧🇷 and a 3rd year Computer Science student at <a href="https://portal.uel.br/home/">State University of Londrina - UEL</a>.<br>
-      I'm currently working with Java frontend and C stuff (and trying to thinking about my final paper theme :weary:).
-    </h4>
   </div>
   
   <div align="left">
-    <p>Some stuff I like:</p>
-    <ul>
-      <li>froggys 🐸 🐸 🐸 🐸</li>
-      <li>weird music 🎵</li>
-      <li>pink, cute and retro things 🌸</li>
-      <li>be a eternal wood tier on games 🎮</li>
-      <li>potato 🥔</li>
-    </ul>
-  </div>
-  
+    <h4>
+      <p>Some stuff I like:</p>
+      <ul>
+        <li>
+          <img width="30px" src="https://64.media.tumblr.com/3f7ad0edea8bc95c5efd8e11fa75252f/32e10b32833a63e1-c8/s500x750/e656f80b8f856078ca9752241821edc1833cb5f7.gif">
+          <img width="30px" src="https://64.media.tumblr.com/3f7ad0edea8bc95c5efd8e11fa75252f/32e10b32833a63e1-c8/s500x750/e656f80b8f856078ca9752241821edc1833cb5f7.gif">
+          <img width="30px" src="https://64.media.tumblr.com/3f7ad0edea8bc95c5efd8e11fa75252f/32e10b32833a63e1-c8/s500x750/e656f80b8f856078ca9752241821edc1833cb5f7.gif">
+        </li>
+        <li>
+          <img width="80px" src="https://images7.memedroid.com/images/UPLOADED471/606bbb3341a2a.jpeg">
+          weird music
+        </li>
+        <li>
+          <img width="30px" src="https://i.pinimg.com/originals/08/25/33/082533d7d7bb31f3d61ae692d69d6e00.gif">
+          pink, cute and retro things
+        </li>
+        <li>
+          <img width="30px" src="https://elovalorant.com.br/assets/img/tiers/ferro.png">
+          be a eternal wood tier on games
+        </li>
+        <li>
+          <img width="35px" src="https://lh3.googleusercontent.com/proxy/SocjhUGQ48AHDnsE3qT7HVXz27R3ucetNsdRmS-VR9k3OQ5XvxQy6c6skIfQGFUscMCsRiElyfwC451Whr_NnVxYEsKqZkh0cWK_iMHQnm2v8n-rrWBd3mybSRsLjLAj1A">
+          potato **ANY TYPE**
+        </li>
+        <li>
+          <img width="60px" src="https://i.pinimg.com/originals/d1/4b/1a/d14b1a2e76c3f473eabda0a499eeda7c.gif">
+          watch random videos, animes and series 
+        </li>
+      </ul>
+    </h4>
+   </div>
+
   <div align="center">
-    <img width="300px" alt="Thanks for visiting!" src="https://upload.wikimedia.org/wikipedia/en/0/09/Thanksfc.gif">
+    <img width="350px" alt="Thanks for visiting!" src="https://upload.wikimedia.org/wikipedia/en/0/09/Thanksfc.gif">
   </div>
-  
-  
-  
 </div>
-      
-
-
