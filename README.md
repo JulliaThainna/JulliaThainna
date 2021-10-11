@@ -1,9 +1,8 @@
-
 <div align = "center">
   <div>
-    <img src="https://c.tenor.com/ZRQtbfMjbLYAAAAC/skeleton-typing.gif" style="width:180px">
-     <img src="https://i.pinimg.com/originals/bd/cf/8b/bdcf8be974aa1563452484db1616ef30.gif" style="width:180px">
-    <img src="https://i.pinimg.com/originals/56/0e/b9/560eb94e73c8b896ca8abda00f8c1df9.gif" style="width:180px">
+    <img src="https://c.tenor.com/ZRQtbfMjbLYAAAAC/skeleton-typing.gif" style="width:170px">
+    <img src="https://i.pinimg.com/originals/bd/cf/8b/bdcf8be974aa1563452484db1616ef30.gif" style="width:170px">
+    <img src="https://i.pinimg.com/originals/56/0e/b9/560eb94e73c8b896ca8abda00f8c1df9.gif" style="width:170px">
    </div>
   
   <div align="center">
@@ -14,13 +13,13 @@
   </div>    
 
   <div align="left">
+    <img width="160px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
     <h4>
       I'm from Brazil 🇧🇷 and a 3rd year Computer Science student at <a href="https://portal.uel.br/home/">State University of Londrina - UEL</a>. <br>
-      I'm currently working with Java frontend and C stuff (and trying to thinking about my final paper theme 😩).
+      I'm currently working with Java frontend and C stuff (and trying to think about my final paper theme 😩).
     </h4>
-    <img width="140px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
   </div>
-  
+        
   <div align="left">
     <h4>
       <p>Some stuff I like:</p>
@@ -34,6 +33,9 @@
           <img width="80px" src="https://images7.memedroid.com/images/UPLOADED471/606bbb3341a2a.jpeg">
           weird music
         </li>
+        <!-- --->
+        <img width="140px" align="right" src="http://www.scrapsweb.com.br/arquivos/Hello-Kitty/scrapsweb_hello_kitty-762974.gif">
+        <!-- --->
         <li>
           <img width="30px" src="https://i.pinimg.com/originals/08/25/33/082533d7d7bb31f3d61ae692d69d6e00.gif">
           pink, cute and retro things
@@ -54,7 +56,26 @@
     </h4>
    </div>
 
+  <h2></h2>
+  <h3>⠀⠀⠀⠀・゜゜・My Stats・゜゜・</h3>
   <div align="center">
-    <img width="350px" alt="Thanks for visiting!" src="https://upload.wikimedia.org/wikipedia/en/0/09/Thanksfc.gif">
+    ⠀⠀⠀⠀⠀⠀───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄─── <br>
+    ⠀⠀⠀⠀⠀⠀───█▒▒░░░░░░░░░▒▒█─── <br>
+    ⠀⠀⠀⠀⠀⠀────█░░█░░░░░█░░█──── <br>
+    ⠀⠀⠀⠀⠀⠀─▄▄──█░░░▀█▀░░░█──▄▄─ <br>
+    ⠀⠀⠀⠀⠀⠀█░░█─▀▄░░░░░░░▄▀─█░░█ <br>
   </div>
+  
+  <div align="left">
+    <img width="415px" src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&custom_title=⠀+✧･ﾟ:*✧･ﾟ:*+Júllia+Thainna+'s+Github+Stats+*:･ﾟ✧*:･ﾟ✧&include_all_commits=true&count_private=true&show_icons=true&border_color=B4F8C8&border_radius=5&bg_color=FFD4DB&icon_color=25C0C0&text_color=FF45B5&title_color=9964A8">
+    <!---->
+    <img align="right" width="348px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulliaThainna&layout=compact&custom_title=‧͙⁺˚*･༓☾+Most+Used+Languages+☽༓･*˚⁺‧͙&include_all_commits=true&count_private=true&show_icons=true&border_color=B4F8C8&border_radius=5&bg_color=FFD4DB&icon_color=25C0C0&text_color=FF45B5&title_color=9964A8">
+  </div>
+  
+  <br>
+  
+  <div>
+    <img width="400px" align="center" alt="Thanks for visiting!" src="https://upload.wikimedia.org/wikipedia/en/0/09/Thanksfc.gif">
+  </div>
+  
 </div>
