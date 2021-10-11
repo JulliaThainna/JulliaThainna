@@ -19,8 +19,8 @@
   </h4>
   <img width="50px" src="https://i.pinimg.com/originals/03/2b/7f/032b7f6e81bae525e08f856554181b8b.png"> 
   <b>How to reach me:</b> <br>
-  ⠀⠀⠀⠀⠀<a href="julliathainna@outlook.com"><img width="70px" alt="julliathainna@outlook.com" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a6885b7cb42db3d.png"></a>
-  <a href="jullia.thainna@uel.br"><img width="70px" alt="jullia.thainna@uel.br" src="https://user-images.githubusercontent.com/52893062/136731784-78d01c9a-2b0f-4aab-b895-33e5c4d11399.png"</a>
+  ⠀⠀⠀⠀⠀<a href="mailto:julliathainna@outlook.com?subject=Hello%20Júllia,%20I%20found%20you%20on%20Github"><img width="70px" alt="julliathainna@outlook.com" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a6885b7cb42db3d.png"></a>
+  <a href="mailto:jullia.thainna@uel.br?subject=Hello%20Júllia,%20I%20found%20you%20on%20Github"><img width="70px" alt="jullia.thainna@uel.br" src="https://user-images.githubusercontent.com/52893062/136731784-78d01c9a-2b0f-4aab-b895-33e5c4d11399.png"</a>
 </div>
         
 <div align="left">
