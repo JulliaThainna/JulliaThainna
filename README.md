@@ -11,7 +11,7 @@
   <img width="70px" src="https://user-images.githubusercontent.com/52893062/136714200-097f89c6-35e5-4c12-bb6e-c89fef0d568f.gif">
   <img width="190px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
   <h3 align="left">
-    I'm from Brazil 🇧🇷 and a 3rd year Computer Science student at <a href="https://portal.uel.br/home/">State University of Londrina - UEL</a>. <br>
+    I'm a 3rd year Computer Science student at <a href="https://portal.uel.br/home/">State University of Londrina - UEL</a> in Brazil 🇧🇷. <br>
     I'm currently working with Java frontend and C stuff (and trying to think about my final paper theme 😩).
   </h3>
   <img width="50px" src="https://i.pinimg.com/originals/03/2b/7f/032b7f6e81bae525e08f856554181b8b.png"> 
@@ -22,7 +22,7 @@
         
 <div align="left">
   <h4>
-    <p>Some stuff I like:</p>
+    <p>Some things I like:</p>
     <ul>
       <!-- --->
       <img width="300px" align="right"src="https://i.kym-cdn.com/photos/images/facebook/001/290/499/425.jpg">
@@ -54,7 +54,7 @@
       </li>
       <li>
         <img width="60px" src="https://i.pinimg.com/originals/d1/4b/1a/d14b1a2e76c3f473eabda0a499eeda7c.gif">
-        watch random videos, animes and series 
+        watch animes, series and random videos
       </li>
     </ul>
   </h4>
@@ -71,13 +71,14 @@
 </div>
   
 <div align="left">
-  <img width="415px" src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&custom_title=⠀+✧･ﾟ:*✧･ﾟ:*+Júllia+Thainna+'s+Github+Stats+*:･ﾟ✧*:･ﾟ✧&include_all_commits=true&count_private=true&show_icons=true&border_color=B4F8C8&border_radius=5&bg_color=FFD4DB&icon_color=25C0C0&text_color=FF45B5&title_color=9964A8">
+  <img width="415px" src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&custom_title=⠀+✧･ﾟ:*✧･ﾟ:*+Júllia+Thainna's+Github+Stats+*:･ﾟ✧*:･ﾟ✧&include_all_commits=true&count_private=true&show_icons=true&border_color=B4F8C8&border_radius=2&bg_color=FFD4DB&icon_color=25C0C0&text_color=FF45B5&title_color=9964A8">
     <!---->
-  <img align="right" width="348px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulliaThainna&layout=compact&custom_title=‧͙⁺˚*･༓☾+Most+Used+Languages+☽༓･*˚⁺‧͙&include_all_commits=true&count_private=true&show_icons=true&border_color=B4F8C8&border_radius=5&bg_color=FFD4DB&icon_color=25C0C0&text_color=FF45B5&title_color=9964A8">
+  <img align="right" width="348px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulliaThainna&layout=compact&custom_title=‧͙⁺˚*･༓☾+Most+Used+Languages+☽༓･*˚⁺‧͙&include_all_commits=true&count_private=true&show_icons=true&border_color=B4F8C8&border_radius=2&bg_color=FFD4DB&icon_color=25C0C0&text_color=FF45B5&title_color=9964A8">
 </div>
   
 <br>
   
 <div align="center">
-  <img width="400px" align="center" alt="Thanks for visiting!!" src="https://upload.wikimedia.org/wikipedia/en/0/09/Thanksfc.gif">
+  <img width="400px" align="center" alt="Thanks for visiting!!" src="https://upload.wikimedia.org/wikipedia/en/0/09/Thanksfc.gif"> <br>
+  <!---<img src="https://profile-counter.glitch.me/{JulliaThainna}/count.svg">--->
 </div>
