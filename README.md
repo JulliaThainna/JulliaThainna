@@ -9,14 +9,11 @@
   <img width="70px" src="https://user-images.githubusercontent.com/52893062/136714200-097f89c6-35e5-4c12-bb6e-c89fef0d568f.gif">
   <img width="450px" alt="My name is Júllia Thainna" src="https://user-images.githubusercontent.com/52893062/136712774-0619b75a-67cf-4253-b7d2-354c4a878867.gif">
   <img width="70px" src="https://user-images.githubusercontent.com/52893062/136714200-097f89c6-35e5-4c12-bb6e-c89fef0d568f.gif">
-</div>    
-
-<div align="center">
-  <img width="160px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
-  <h4 align="left">
+  <img width="190px" align="right" src="http://www.scrapsweb.com.br/arquivos/Bratz/scrapsweb_bratz-88446.gif">
+  <h3 align="left">
     I'm from Brazil 🇧🇷 and a 3rd year Computer Science student at <a href="https://portal.uel.br/home/">State University of Londrina - UEL</a>. <br>
     I'm currently working with Java frontend and C stuff (and trying to think about my final paper theme 😩).
-  </h4>
+  </h3>
   <img width="50px" src="https://i.pinimg.com/originals/03/2b/7f/032b7f6e81bae525e08f856554181b8b.png"> 
   <b>How to reach me:</b> <br>
   ⠀⠀⠀⠀⠀<a href="mailto:julliathainna@outlook.com?subject=Hello%20Júllia,%20I%20found%20you%20on%20Github"><img width="70px" alt="julliathainna@outlook.com" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a6885b7cb42db3d.png"></a>
