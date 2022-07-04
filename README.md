@@ -51,7 +51,7 @@
         potatoes **ANY TYPE**
       </li>
       <li>
-        <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/images/chika_dance.gif" width="60">
+        <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/images/sasha.gif" width="80">
         watch animes, series and random videos
       </li>
     </ul>
