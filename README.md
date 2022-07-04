@@ -32,12 +32,6 @@
       <img align="right"src="https://github.com/JulliaThainna/JulliaThainna/blob/main/images/hackerman.jpg" width="300">
       <!-- --->
       <li>
-        <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/images/froggy.gif" width="30">
-        <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/images/froggy.gif" width="30">
-        <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/images/froggy.gif" width="30">
-        froggies
-      </li>
-      <li>
         <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/images/sou_do_rock.jpg" width="80">
         weird musics
       </li>
