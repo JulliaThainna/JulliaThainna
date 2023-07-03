@@ -23,3 +23,9 @@
 </div>
 
 <h2></h2>
+
+<div align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&show_icons=true&theme=transparent&include_all_commits=true&icon_color=ff9cb6&title_color=ff9cb6&text_color=957dad&show_owner=true&custom_title=My+Stats&border_color=957dad&border_radius=0&rank_icon=github/>
+  
+  <img padding="300px" height="188" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulliaThainna&theme=transparent&text_color=957dad&icon_color=a7bed3&title_color=ff8fab&layout=compact&custom_title=My+Most+Used+Languages&border_color=957dad&border_radius=0"/>
+</div>
