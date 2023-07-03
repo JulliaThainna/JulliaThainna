@@ -18,6 +18,6 @@
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/desperate_skeleton.gif" width="170" height="170">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/skeleton_it's_okay.gif" width="170" height="170">
 
-  _(and this looks like me making ~~bugs~~ amazing, pretty and incredible codes)_
+  _(and this looks like me making new ~~bugs~~ features)_
 </div>
 
