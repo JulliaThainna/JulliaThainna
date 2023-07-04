@@ -8,14 +8,15 @@
  <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/my-name.gif">
 </div>
 
-<br>
 <div align="center">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-hi.gif" width="30">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/welcome.gif" width="700">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-hi.gif" width="30">  
 </div>
 
-<div align="center">
+<br>
+
+<div display="inline-block" align="center">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/skeleton_typing.gif" width="150" height="150">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/desperate_skeleton.gif" width="150" height="150">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/skeleton_it's_okay.gif" width="150" height="150">
@@ -25,8 +26,20 @@
 
 <h2></h2>
 
+<h3 align="center">Yooo, it's a pleasure to see u here! :))</h3>
+<div display="inline-block">
+  <p align="left"><img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/notebook.gif"> I'm a systems analysis and development student who aspires to be a fullstack developer soon</a>;</p>
+  <p align="left">📚 Currently, I'm working with low-code development using mendix platform;</p>
+  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
+  <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+</div>
+<br>
+
+
+
+<h2></h2>
 <div align="center">
-  <img width="500" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/my-numbers.gif">
+  <img width="550" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/my-numbers.gif">
 </div>
 
 <br>
