@@ -10,9 +10,9 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-hi.gif" width="40">
+  <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-hi.gif" width="30">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/welcome.gif" width="700">
-  <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-hi.gif" width="40">  
+  <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-hi.gif" width="30">  
 </div>
 
 <div align="center">
