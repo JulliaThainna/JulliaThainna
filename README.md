@@ -14,7 +14,7 @@
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-hi.gif" width="40">  
 </div>
 
-<div align = "center">
+<div align="center">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/skeleton_typing.gif" width="170" height="170">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/desperate_skeleton.gif" width="170" height="170">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/skeleton_it's_okay.gif" width="170" height="170">
@@ -25,12 +25,12 @@
 <h2></h2>
 
 <div align="center">
-  <h3>
-    <img width="60" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-star.gif">
-    ✧⁺.˚*･☾・My Stats・☽･*˚.⁺✧
-    <img width="60" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-star-espelhado.gif">
-  </h3 
+  <img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-star.gif">
+  
+  <img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-star-espelhado.gif">
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&show_icons=true&theme=transparent&include_all_commits=true&icon_color=ff9cb6&title_color=ff9cb6&text_color=957dad&show_owner=true&custom_title=My+Stats&border_color=957dad&border_radius=0&rank_icon=github&hide=issues"/>
