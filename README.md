@@ -28,9 +28,9 @@
 
 <h3 align="center">Yooo, it's a pleasure to see u here! :))</h3>
 <div display="inline-block">
-  <p align="left"><img width="35" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analysis and development student who aspires to be a fullstack developer soon;</p>
-  <p align="left"><img width="35" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm working with low-code (Mendix) and SAP/ABAP development in <a href="https://www.tcs.com/">Tata Consultancy Services</a>;</p>
-  <p align="left"><img width="35" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff, so, I'm learning more about html, css, javascript, nodejs and some frameworks;</p>
+  <p align="center">> <img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analysis and development student who aspires to be a fullstack developer soon;</p>
+  <p align="center">> <img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm working with low-code (Mendix) and SAP/ABAP development in <a href="https://www.tcs.com/">Tata Consultancy Services</a>;</p>
+  <p align="center">> <img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff, so, I'm learning more about html, css, javascript, nodejs and some frameworks.</p>
   <br>
   <p align="left"><img width="35" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/clips.gif">Some other facts about me: </p>
   <ul>
@@ -44,7 +44,7 @@
     </li>
     <li>
       <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/hello-kitty.gif" width="30">
-      I like a lot pink, retro and cute things;
+      I like a lot pink, retro and cute things.
     </li>
   </ul>
 </div>
