@@ -27,44 +27,41 @@
 <h2></h2>
 
 <h3 align="center">Yooo, it's a pleasure to see u here! :))</h3>
-<div display="inline-block">
-  <p align="center">> <img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analysis and development student who aspires to be a fullstack developer soon;</p>
-  <p align="center">> <img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm working with low-code (Mendix) and SAP/ABAP development in <a href="https://www.tcs.com/">Tata Consultancy Services</a>;</p>
-  <p align="center">> <img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff, so, I'm learning more about html, css, javascript, nodejs and some frameworks.</p>
-  <br>
-  <p align="left"><img width="35" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/clips.gif">Some other facts about me: </p>
-  <ul>
-    <li>
-      <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/sasha.gif" width="30">
-      I love watch animes, tv shows and random videos;
-    </li>
-    <li>
-      <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/potato.png" width="30">
-      I've absolutely sure that potatoes are simply the most PERFECT food in the world;
-    </li>
-    <li>
-      <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/hello-kitty.gif" width="30">
-      I like a lot pink, retro and cute things.
-    </li>
-  </ul>
-</div>
+  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analysis and development student who aspires to be a fullstack developer soon;</p>
+  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm SAP ABAP/EDI Trainee Consultant in <a href="https://www.tcs.com/">Tata Consultancy Services</a>; ㅤㅤㅤ ㅤㅤㅤㅤ</p>
+  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff, so, I'm learning UX/UI, web development and some frameworks.</p>
+  
+<br><br>
+
+<img align="left" width="40" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/clips.gif">
+<img align="right" width="40" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/clips.gif">
+<h4 align="center">If you have any questions or would like to exchange ideias, please send me an email or a message on LinkedIn :)</h4>
+
 <br>
 
-
-
-<h2></h2>
 <div align="center">
-  <img width="550" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/my-numbers.gif">
+  <img width="55" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/linkedin.png">
+  <img width="80" hight="60" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/outlook.png">
 </div>
 
-<br>
+
+<br><br>
 
 <div align="center">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-star.gif">
-  
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&show_icons=true&theme=transparent&include_all_commits=true&icon_color=ff9cb6&title_color=ff9cb6&text_color=957dad&show_owner=true&custom_title=My+Stats&border_color=957dad&border_radius=0&rank_icon=github&hide=issues"/>
-    
-  <img height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulliaThainna&theme=transparent&text_color=957dad&icon_color=a7bed3&title_color=ff8fab&layout=compact&custom_title=My+Most+Used+Languages&border_color=957dad&border_radius=0"/>
-
+  <img width="550" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/my-numbers.gif">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-star-espelhado.gif">
 </div>
+
+<br>
+
+<div>
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&show_icons=true&theme=transparent&include_all_commits=true&icon_color=ff9cb6&title_color=ff9cb6&text_color=957dad&show_owner=true&custom_title=My+Stats&border_color=957dad&border_radius=0&hide=issues&include_all_commits=true&hide_border=true"/>
+  ㅤㅤㅤ
+  <img align="center" width="150" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/error.gif">
+  <img align="right" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulliaThainna&theme=transparent&text_color=957dad&icon_color=a7bed3&title_color=ff8fab&layout=compact&custom_title=My+Most+Used+Languages&border_color=957dad&border_radius=0&hide_border=true"/>
+</div>
+
+<h2></h2>
+
+
