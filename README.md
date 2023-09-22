@@ -31,7 +31,7 @@
   <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm SAP ABAP/EDI Trainee Consultant in <a href="https://www.tcs.com/">Tata Consultancy Services</a>; ㅤㅤㅤ ㅤㅤㅤㅤ</p>
   <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff, so, I'm learning UX/UI, web development and some frameworks.</p>
   
-<br><br>
+<br>
 
 <img align="left" width="40" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/clips.gif">
 <img align="right" width="40" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/clips.gif">
@@ -40,9 +40,11 @@
 <br>
 
 <div align="center">
-  <img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/linkedin.png">
+  >>>>>>>>>>>> ㅤ ㅤ
+  <a href="https://www.linkedin.com/in/JulliaThainna/"><img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/linkedin.png"></a>
   ㅤ ㅤㅤ
-  <img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/outlook.com.png">
+  <a href="mailto:julliathainna@outlook.com?subject=Hello%20Júllia,%20I%20found%20you%20on%20Github"><img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/outlook.com.png"></a>
+   ㅤ ㅤ<<<<<<<<<<<<
 </div>
 
 
@@ -58,7 +60,7 @@
 
 <div>
   <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=JulliaThainna&show_icons=true&theme=transparent&include_all_commits=true&icon_color=ff9cb6&title_color=ff9cb6&text_color=957dad&show_owner=true&custom_title=My+Stats&border_color=957dad&border_radius=0&hide=issues&include_all_commits=true&hide_border=true"/>
-  ㅤ ㅤㅤ 
+  ㅤ ㅤ
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" width="150" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/error.gif"></a>
   <img align="right" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulliaThainna&theme=transparent&text_color=957dad&icon_color=a7bed3&title_color=ff8fab&layout=compact&custom_title=My+Most+Used+Languages&border_color=957dad&border_radius=0&hide_border=true"/>
 </div>
