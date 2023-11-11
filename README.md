@@ -28,7 +28,7 @@
 
 <h3 align="center">Yooo, it's a pleasure to see u here! :))</h3>
   <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analysis and development student who aspires to be a fullstack developer soon;</p>
-  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm SAP ABAP/EDI Trainee Consultant in <a href="https://www.tcs.com/">Tata Consultancy Services</a>; ㅤㅤㅤ ㅤㅤㅤㅤ</p>
+  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm Mendix dev and SAP ABAP/EDI Consultant in <a href="https://www.tcs.com/">Tata Consultancy Services</a>; ㅤㅤㅤ ㅤㅤㅤㅤ</p>
   <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff, so, I'm learning UX/UI, web development and some frameworks.</p>
   
 <br>
