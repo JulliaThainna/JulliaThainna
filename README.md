@@ -29,7 +29,7 @@
 <h3 align="center">Yooo, it's a pleasure to see u here! :))</h3>
   <p align="left"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analyst and developer graduated from Universidade Positivo who aspires to be fullstack / UI designer soon;</p>
   <p align="left"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm Mendix dev and Figma designer in <a href="https://www.tcs.com/">Tata Consultancy Services</a>;</p>
-  <p align="left"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff (i know how to center a div 💋💅) so I'm learning about UX/UI design and web development.</p>
+  <p align="left"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff (i know how to center a div 💋💅) so I'm learning about UX / UI design and web development.</p>
   
 <br>
 
