@@ -27,9 +27,9 @@
 <h2></h2>
 
 <h3 align="center">Yooo, it's a pleasure to see u here! :))</h3>
-  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analysis and development student who aspires to be a fullstack developer soon;</p>
-  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm Mendix dev and SAP ABAP/EDI Consultant in <a href="https://www.tcs.com/">Tata Consultancy Services</a>; ㅤㅤㅤ</p>
-  <p align="center"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff, so, I'm learning UX/UI, web development and some frameworks.</p>
+  <p align="left"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/files.gif"> I'm a systems analyst and developer graduated from Universidade Positivo who aspires to be fullstack / UI designer soon;</p>
+  <p align="left"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/computer.gif"> Currently, I'm Mendix dev and Figma designer in <a href="https://www.tcs.com/">Tata Consultancy Services</a>;</p>
+  <p align="left"> >ㅤ<img width="30" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/paint.gif"> My passion is frontend stuff (i know how to center a div 💋💅) so I'm learning about UX/UI design and web development.</p>
   
 <br>
 
@@ -42,11 +42,10 @@
 <br>
 
 <div align="center">
-  >>>>>>>>>>>> ㅤ ㅤ
-  <a href="https://www.linkedin.com/in/JulliaThainna/"><img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/linkedin.png"></a>
-  ㅤ ㅤㅤ
-  <a href="mailto:julliathainna@outlook.com?subject=Hello%20Júllia,%20I%20found%20you%20on%20Github"><img width="50" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/outlook.com.png"></a>
-   ㅤ ㅤ<<<<<<<<<<<<
+  >>>>>> ⠀
+  <a href="https://www.linkedin.com/in/JulliaThainna/"><img width="40" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/linkedin.png"></a>⠀⠀⠀
+  <a href="mailto:julliathainna@outlook.com?subject=Hello%20Júllia,%20I%20found%20you%20on%20Github"><img width="40" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/outlook.com.png"></a>
+  ⠀<<<<<<
 </div>
 
 
