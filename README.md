@@ -48,9 +48,6 @@
   ⠀<<<<<<
 </div>
 
-
-<br><br>
-
 <!-- 
 <div align="center">
   <img src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/kirby-star.gif">
@@ -69,6 +66,7 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="180" src="https://github.com/JulliaThainna/JulliaThainna/blob/main/imgs/error.gif"></a>
 </div>
 -->
+
 <h2></h2>
 
 <div align="center">
